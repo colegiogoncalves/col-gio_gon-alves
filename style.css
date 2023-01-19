@@ -1,0 +1,40 @@
+head {
+    display: none;
+}
+html {
+    color: #4c463e;
+}
+html {
+    font-size: 1em;
+    font-family: 'Maven Pro', 'Roboto', sans-serif;
+    line-height: 1.2;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+#body 
+h1 {
+    color:lightslategray ;
+}
+h2 {
+    color: blue ;
+}
+h3 {
+    color: black;
+}
+h4 {
+    color: darkslateblue;
+}
